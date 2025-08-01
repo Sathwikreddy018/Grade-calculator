@@ -25,11 +25,12 @@ This is an interactive Python project that helps students calculate their weight
 
 **Requirements**
 
-Python 3.x
+Python 3.x, 
 Libraries: numpy, pandas, openpyxl (for saving Excel file)
 
 **Install the required libraries using pip:**
 pip install numpy pandas openpyxl
+
 
 
 
