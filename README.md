@@ -1,4 +1,4 @@
-#Grade Calculator and GPA Predictor
+#Grade Calculator and GPA Predictor#
 This is an interactive Python project that helps students calculate their weighted average grades and GPA based on their assignment grades, and predicts what grades they need on remaining assignments to achieve a target grade.
 
 #Features
@@ -43,3 +43,4 @@ Libraries: numpy, pandas, openpyxl (for saving Excel file)
 #Install the required libraries using pip:
 
 pip install numpy pandas openpyxl
+
